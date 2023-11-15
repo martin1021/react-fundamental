@@ -1,16 +1,19 @@
 [
     {
+        "isNew": true,
         "title": "Tutorial Membuat VanilaJS",
         "tags": ["Vanila", "FrontEnd"],
         "date": "2023-01-01"
         
     },
     {
+        "isNew": false,
         "title": "Tutorial Membuat ReactJS",
         "tags": ["React", "FrontEnd"],
         "date": "2023-01-02"
     },
     {
+        "isNew": false,
         "title": "Tutorial Membuat ExpressJS",
         "tags": ["Express", "BackEnd"],
         "date": "2023-01-03"
