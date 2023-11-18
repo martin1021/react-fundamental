@@ -3,7 +3,7 @@ import { Link, useLoaderData } from "react-router-dom";
 
 function Blogs() {
     // const [posts, setPosts] = useState([]);
-    const post = useLoaderData()
+    const posts = useLoaderData()
 
     // useEffect(() => {
     //     fetch('https://jsonplaceholder.typicode.com/posts')
